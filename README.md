@@ -15,13 +15,14 @@
 <img src="https://github.com/lizianefelix/linksfav/blob/main/images/tela_opcoes.png" width="250" alt="config link" />
 
 ### 🌟 Como instalar
-De duas formas:
-- Baixando o apk clicando [aqui](https://github.com/lizianefelix/linksfav/blob/main/app-release.apk) e depois em download.
-- Seguindo os passos abaixo:
-  1. Clone este projeto
-  2. Abra o terminal e dentro da pasta do projeto, utilize o comando `flutter build` para gerar um novo apk
-  3. Vá até sua pasta do projeto e faça o caminho: `build/app/outputs/flutter-apk`
-  4. Passe o arquivo `app-release.apk` para o seu celular e instale-o
+- Baixando o apk clicando [aqui](https://github.com/lizianefelix/linksfav/blob/main/app-release.apk) e depois em download
+
+### 👨‍💻 Como clonar o repositório
+  1. Faça um fork do repositório (necessário conta no github)
+  2. Abra o seu terminal e entre na pasta que deseja salvar o projeto
+  3. Dentro da pasta no terminal digite o comando: `git clone link_do_projeto_no_seu_github`
+  4. Entre na pasta que foi criada com o projeto no terminal e digite o comando: `code .`, para abrir no Visual S. Code
+  5. Abra o arquivo `pubspec.yaml` e salve (CTRL + S) o arquivo para que os plugins sejam baixados
 
 ### 🔨 Tecnologias Utilizadas
 - flutter (cria a estrutura do app)
